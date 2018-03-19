@@ -1,0 +1,8 @@
+app/back/files
+app/back/node_modules
+app/back/yarn.lock
+app/back/src/config/secret.js
+app/front/node_modules
+app/front/config/secret.js
+app/front/yarn.lock
+.vscode
