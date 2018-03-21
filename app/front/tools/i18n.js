@@ -10,10 +10,9 @@ import fr from './fr.json'
 i18n
     .use(XHR)
     .use(LanguageDetector)
-    .use(reactI18nextModule) // if not using I18nextProvider
+    .use(reactI18nextModule)
     .init({
         fallbackLng: 'en',
-        // debug: true,
         resources: {
             en: {
                 translation: en
