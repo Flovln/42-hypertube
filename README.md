@@ -4,7 +4,7 @@ Ecole 42 Paris group project.
 
 ## NodeJS + ReactJS/Redux application
 
-Hypertube is a video streaming website, where a user can browse through movies to be live streamed.
+Hypertube is a video streaming application created from scratch, where a user can browse through movies to be live streamed.
 
 - See the documentation folder for complete informations about the application architecture and technologies.
 - See the screenshots folder for more pictures of the application UI.
