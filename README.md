@@ -1,6 +1,6 @@
 # 42-hypertube
 
-Ecole 42 Paris group project.
+Ecole 42 Paris - group project.
 
 ## NodeJS + ReactJS/Redux application
 
